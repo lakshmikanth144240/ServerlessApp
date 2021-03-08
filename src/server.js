@@ -16,7 +16,7 @@ class InMemoryFriends {
 const friendsList = new InMemoryFriends();
 
 let port = process.env.PORT || 80;
-const baseUrl = `http://34.233.125.82:${port}`
+const baseUrl = `http://3.90.102.121:${port}`
 
 const bodyParser = require('body-parser');
 
