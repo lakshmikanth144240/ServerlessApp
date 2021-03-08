@@ -3,5 +3,5 @@ let port = process.env.PORT || 80;
 
 // Server
 app.listen(port, () => {
-    console.log(`Listening on: http://34.233.125.82:${port}`);
+    console.log(`Listening on: http://3.90.102.121:${port}`);
 });
